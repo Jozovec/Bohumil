@@ -1,2 +1,3 @@
-# Bohmil
-Just a stupid Discord bot...
+# Bohumil
+Bohumil is a Discord bot.
+A really shitty one.
