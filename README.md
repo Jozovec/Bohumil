@@ -15,7 +15,7 @@ Donwload and install **Node JS**, then copy **index.js** above to your working d
 Open your working direcory in the command line and run the following commands:
 1. **npm install discord.js**
 2. **npm install requestify**
-3. **npm install simple-rcon**
+3. **npm install simple-rcon**  
 Helpful Note: If you don't have npm installed, install it.
 ### Modify the code
 Open the **index.js** and modify:
@@ -24,7 +24,7 @@ Open the **index.js** and modify:
 3. Uncomment and modify the WHITELISTED_CHANNEL_ID if you only want your bot to work in one channel
 4. Replace DICORD_BOT_ID with the ID of your Discord Bot
 
-\* If you don't want any bot console, delete **all** the lines containing **botConsole** (*botConsole.send("hello world") etc.*).
+\* If you don't want any bot console, delete **all** the lines containing **botConsole** (*botConsole.send("hello world") etc.*).  
 \* Also, to get your Server and Channel ID, lookup a guide to enable **Developer mode** and get the IDs
 ### Run the code
 Open your working directory in your command line and run **node index.js** to run *index.js*.  
