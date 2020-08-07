@@ -1,3 +1,5 @@
+# Deprecated
+This dog shit code is deprecated, I'll upload a new fresh one in a month or so...
 # Bohumil
 Bohumil is a Discord bot.  
 A really shitty one.
